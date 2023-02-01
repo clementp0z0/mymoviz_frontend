@@ -3,6 +3,7 @@
 	flex-direction: column;
 	justify-content: flex-start;
 	width: 220px;
+
 	margin: 20px;
 }
 
@@ -14,7 +15,7 @@
 .textContainer {
 	display: flex;
 	flex-direction: column;
-	height: 230px;
+	height: 300px;
 	margin: 10px 0px 10px 00px;
 }
 
